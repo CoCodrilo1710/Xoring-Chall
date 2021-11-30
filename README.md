@@ -64,7 +64,7 @@ A⨁B=B⨁A
 
 ## Acest proiect a fost realizat de echipa ***Odin's triskele*** , cu membrii componenți: 
 
-#### Iliescu Gabriel Bogdan (grupa 132)                                         ![logo](/assets/images/logo.jped)
+#### Iliescu Gabriel Bogdan (grupa 132)                                         ![logo](/logo.jpeg)
 #### Ghinea Dragoș Dumitru (grupa 132)
 #### Andriciuc Andreea Cristina (grupa 132)
 
