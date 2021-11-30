@@ -55,17 +55,17 @@ A⨁B=B⨁A
 
 ## Cum funcționează codul propus?
 
-##### Pentru partea de encriptare, ideea principală este ca, pornind de la o parolă aleasă, să fie generat un șir aleator de lungimea inputului care trebuie codificat. Această generare se realizează cu pozițiile aleatoare ale caracterelor componente din parolă (obținute prin apelarea metodelor predefinite din clasa random). Acest lucru sporește securitatea, deoarece parola nu rămâne identică pe subșiruri de aceeași lungime ale textului din input, dar rămâne la fel pentru parte de decriptarea, căci, prin folosirea metodei random.seed(x) cu același parametru x, vom obține de fiecare dată aceeași secvență. Parametrul metodei îl alegem ca fiind suma codurilor ASCII aferente caracterelor componente din parolă, astfel că la parole diferite vom avea o altă regulă de generare a șirului care realizează codificarea. 
+###### 1. Pentru partea de encriptare, ideea principală este ca, pornind de la o parolă aleasă, să fie generat un șir aleator de lungimea inputului care trebuie codificat. Această generare se realizează cu pozițiile aleatoare ale caracterelor componente din parolă (obținute prin apelarea metodelor predefinite din clasa random). Acest lucru sporește securitatea, deoarece parola nu rămâne identică pe subșiruri de aceeași lungime ale textului din input, dar rămâne la fel pentru parte de decriptarea, căci, prin folosirea metodei random.seed(x) cu același parametru x, vom obține de fiecare dată aceeași secvență. Parametrul metodei îl alegem ca fiind suma codurilor ASCII aferente caracterelor componente din parolă, astfel că la parole diferite vom avea o altă regulă de generare a șirului care realizează codificarea. 
 
-##### Pentru decriptare, folosim din nou operația XOR dintre mesajul codificat și șirul generat pornind de la parola aleasă (care va fi la fel generat). 
+###### 2. Pentru decriptare, folosim din nou operația XOR dintre mesajul codificat și șirul generat pornind de la parola aleasă (care va fi la fel generat). 
 
 
 # Echipa
 
 ## Acest proiect a fost realizat de echipa ***Odin's triskele*** , cu membrii componenți: 
 
-### Iliescu Gabriel Bogdan (grupa 132)                                         ![logo](
-### Ghinea Dragoș Dumitru (grupa 132)
-### Andriciuc Andreea Cristina (grupa 132)
+#### Iliescu Gabriel Bogdan (grupa 132)                                         ![logo](
+#### Ghinea Dragoș Dumitru (grupa 132)
+#### Andriciuc Andreea Cristina (grupa 132)
 
 
