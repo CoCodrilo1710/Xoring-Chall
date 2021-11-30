@@ -68,5 +68,5 @@ A⨁B=B⨁A
 #### Ghinea Dragoș Dumitru (grupa 132)
 #### Andriciuc Andreea Cristina (grupa 132)
 
-<img src="https://raw.githubusercontent.com/CoCodrilo1710/Xoring-Chall/main/logo.jpeg" width="200" height="400">
+<img src="https://raw.githubusercontent.com/CoCodrilo1710/Xoring-Chall/main/logov44.png" width="200" height="400">
 
