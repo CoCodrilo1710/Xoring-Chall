@@ -64,8 +64,9 @@ A⨁B=B⨁A
 
 ## Acest proiect a fost realizat de echipa ***Odin's triskele*** , cu membrii componenți: 
 
-#### Iliescu Gabriel Bogdan (grupa 132)                                         ![logo](/logo.jpeg){:height="100px" width="300px"}
+#### Iliescu Gabriel Bogdan (grupa 132)                                         
 #### Ghinea Dragoș Dumitru (grupa 132)
 #### Andriciuc Andreea Cristina (grupa 132)
 
+<img src="https://raw.githubusercontent.com/CoCodrilo1710/Xoring-Chall/main/logo.jpeg" width="200" height="400">
 
