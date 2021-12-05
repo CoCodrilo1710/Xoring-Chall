@@ -15,7 +15,13 @@ Created with ❤️ by **Odin's Triskele**
 Use `python3 xor.py encrypt/decrypt key input output`
 
 
+# Rezolvarea Cerintelor
 
+### Cerinta 1
+
+#### Pentru prima metoda in care ni se permite folosirea inputului cat si a outputului am decis sa xoram direct, intrucat codul adversarilor pastreaza literele parolei in ordine, astfel am obtinut un text alcatuit doar din repetarea parolei folosite.
+
+####  Parola folosita de echipa adversa este kI0peBcROjz78
 
 
 
