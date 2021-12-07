@@ -17,12 +17,15 @@ Use `python3 xor.py encrypt/decrypt key input output`
 
 
 # Rezolvarea Cerintelor
+####  `Parola folosita de echipa UnoZero este kI0peBcROjz78 `
+
+
+#### 
+#### 
 
 ### Cerinta 1
 
 #### Pentru prima cerinta in care ni se permite folosirea inputului cat si a outputului am decis sa xoram direct, intrucat codul adversarilor pastreaza literele parolei in ordine, astfel am obtinut un text alcatuit doar din repetarea parolei folosite.
-
-####  Parola folosita de echipa UnoZero este kI0peBcROjz78
 
 
 ### Cerinta 2
