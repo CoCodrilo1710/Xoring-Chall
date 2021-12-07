@@ -2,6 +2,7 @@
 
 Created with ❤️ by **Odin's Triskele**
 
+
 # Requirements install 
 
 **Install python3**
@@ -24,4 +25,18 @@ Use `python3 xor.py encrypt/decrypt key input output`
 ####  Parola folosita de echipa UnoZero este kI0peBcROjz78
 
 
+### Cerinta 2
 
+#### Determinăm lungimea cheii prin XOR-area mesajului criptat cu el însuși, shift-at pe un număr variabil de poziții, pentru a vedea câți biți rămân neschimbați. Dacă numărul de biți care sunt egali depășește un anumit procentaj din întreg mesajul (≥8%, număr care se numește indice de coincidență), înseamnă că am găsit un multiplu al numărului care reprezintă lungimea parolei. Construim cheile caracter cu caracter, bazându-ne pe faptul ca cel mai frecvent caracter care se întâlnește în texte de dimensiuni mari este spațiul, cu codul ASCII 32. Componentele cheii sunt, de fapt, ce rezultă din XOR-area caracterului cel mai frecvent din subsiruri ale textului inițial de lungimea cheii și caracterul ” ”.
+
+### ** Sintaxa script-ului cerinta2.py **
+
+Use `python3 cerinta2.py outputadvers inputrecuperat.txt `  
+
+```
+outputadvers = fisierul care trebuie decryptat
+
+inputrecuperat= fisierul unde va fi pus textul initial
+```
+
+##### Parola folosita pentru cryptare va fi afisata in consola.
